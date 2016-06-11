@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="claudia.svg" xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:svg="http://www.w3.org/2000/svg" height="22" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" width="22" id="svg2" sodipodi:version="0.32" inkscape:version="0.91 r13725">
+  <defs id="defs4">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_x="0 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_y="0 : 1000 : 0" sodipodi:type="inkscape:persp3d" id="perspective10"/>
+  </defs>
+  <sodipodi:namedview inkscape:window-width="1882" inkscape:pageshadow="2" pagecolor="#ffffff" inkscape:window-maximized="1" inkscape:current-layer="layer2" bordercolor="#666666" inkscape:document-units="px" inkscape:window-x="38" inkscape:window-height="1080" borderopacity="1.0" showgrid="true" inkscape:zoom="45.254834" inkscape:window-y="0" inkscape:cx="6.4049812" inkscape:cy="10.593507" inkscape:pageopacity="0.0" showguides="false" id="base">
+    <inkscape:grid type="xygrid" visible="true" id="grid2383" enabled="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(0,-106)" inkscape:groupmode="layer" id="layer1" inkscape:label="Capa 1"/>
+  <g style="opacity:1" transform="translate(0,-106)" inkscape:groupmode="layer" id="layer2">
+    <path d="M 4 2 C 2.892 2 2 2.892 2 4 L 2 18 C 2 19.108 2.892 20 4 20 L 18 20 C 19.108 20 20 19.108 20 18 L 20 4 C 20 2.892 19.108 2 18 2 L 4 2 z M 4 3 L 18 3 C 18.554 3 19 3.446 19 4 L 19 18 C 19 18.554 18.554 19 18 19 L 4 19 C 3.446 19 3 18.554 3 18 L 3 4 C 3 3.446 3.446 3 4 3 z " style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(0,106)" id="rect3337" class="ColorScheme-Text"/>
+    <path d="m 13.005204,110.01647 0,6.60462 c -0.54943,-0.30494 -1.26154,-0.47393 -2,-0.47461 -1.6564866,0 -2.9994801,0.82976 -3.0000001,1.85352 5.2e-4,1.02376 1.3435135,1.85352 3.0000001,1.85352 1.656487,0 2.99948,-0.82976 3,-1.85352 l 0,-7.98353 z" style="color:#c8c8c8;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccsccc" id="path4145" class="ColorScheme-Text"/>
+    <path d="M 7.3886719,119.40625 C 5.8873714,119.78342 5.0032083,120.37335 5,121 c 0.00561,0.84772 1.6139121,1.60217 4.0136719,1.88281 l 0,1.05274 0.9882811,-0.70703 0.986328,-0.70899 -0.986328,-0.70898 -0.9882811,-0.70899 0,0.81641 C 7.1837645,121.75954 5.999469,121.3988 6,121 c 0.00183,-0.32728 0.8042699,-0.63366 2.1484375,-0.82031 -0.2930615,-0.21349 -0.5604063,-0.46768 -0.7597656,-0.77344 z m 7.2343751,0.002 c -0.199246,0.30514 -0.467173,0.55834 -0.759766,0.77149 C 15.202932,120.3669 16.000759,120.67317 16,121 c -0.0032,0.39627 -1.175998,0.75478 -2.990234,0.91406 l 0,-0.8125 -1.003907,0.70899 -1.001953,0.70898 1.001953,0.70899 1.003907,0.70703 0,-1.05469 C 15.398261,122.59783 16.995431,121.84498 17,121 c -0.0023,-0.62528 -0.881704,-1.21423 -2.376953,-1.5918 z" style="opacity:1;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccccccccc" id="path4150"/>
+  </g>
+</svg>

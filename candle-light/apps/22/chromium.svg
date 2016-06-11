@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="chromium.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <defs id="defs4">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" id="perspective10" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" id="perspective2692" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview showborder="true" inkscape:window-x="30" inkscape:current-layer="layer1" inkscape:window-y="0" inkscape:window-height="1080" bordercolor="#666666" inkscape:window-width="1890" borderopacity="1.0" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="5.6" inkscape:cx="6.9550562" inkscape:document-units="px" inkscape:cy="22.983317" showgrid="false" inkscape:pageopacity="0.0"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Capa 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,-106)">
+    <g id="g4139" transform="matrix(0.15655018,0,0,0.15655018,1.0216654,106.98385)">
+      <path class="ColorScheme-Text" id="path2938" d="M 23.117168,14.901127 C 8.9171477,26.621619 -0.13839165,44.354599 -0.13839165,64.190831 c 0,24.087653 13.33798365,45.050009 33.04101565,55.934149 6.653174,2.90348 14.346257,5.46295 23.255559,7.4901 0.0597,0.007 0.121458,-0.007 0.181212,0 C 24.669169,110.21326 29.822017,102.12457 29.822017,102.12457 L 54.648082,78.325379 c -2e-6,-6e-6 -25.878819,-6.946466 -20.356165,-35.94041 C 25.456936,26.678331 24.250972,30.732984 23.117168,14.901127 Z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+      <path class="ColorScheme-Text" id="path2947" d="m 63.708689,0.34375055 c -12.971094,0 -25.015101,3.85958875 -35.094753,10.51030445 -1.898411,14.496972 9.12101,26.396572 9.121012,26.39657 29.339109,-29.8568597 52.128697,-0.181214 52.128695,-0.181212 -0.07039,0 19.676527,2.836955 34.551117,7.188082 C 116.02576,18.759788 92.002679,0.34375248 63.708689,0.34375055 Z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+      <path class="ColorScheme-Text" id="path2949" d="M 92.642229,44.645807 C 101.96171,77.09141 61.223495,81.595824 61.050911,81.250661 60.878327,80.905494 36.708081,103.17733 36.708079,103.17733 c 0,0 3.132376,10.15651 25.913337,19.99374 8.046848,1.80519 15.544618,1.43625 22.470307,-0.48323 0.199005,-0.0707 0.405948,-0.10863 0.60404,-0.18121 24.457857,-8.9608 41.920407,-32.491302 41.920407,-60.041628 0,-2.785827 -0.19724,-5.522887 -0.54363,-8.214951 -14.01588,-8.354162 -34.430313,-9.604242 -34.430311,-9.604244 z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+      <ellipse rx="11.696428" cy="53.892857" class="ColorScheme-Text" ry="9.8214283" id="path2966" cx="-0.8035714" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" transform="matrix(2.0362159,0,0,2.3195155,65.275901,-72.584649)"/>
+    </g>
+  </g>
+</svg>

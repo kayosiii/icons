@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="librecad.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <defs id="defs4">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+
+.ColorScheme-{ color:#eff0f1; }
+
+.ColorScheme-NegativeText{ color:#da4453; }
+
+.ColorScheme-PositiveText{ color:#27ae60; }
+
+.ColorScheme-NeutralText{ color:#f67400; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" id="perspective10" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview inkscape:window-x="38" inkscape:current-layer="layer2" inkscape:window-y="0" inkscape:window-height="1080" bordercolor="#666666" showguides="false" inkscape:window-width="1882" borderopacity="1.0" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="11.313709" inkscape:cx="6.7926582" inkscape:document-units="px" inkscape:cy="5.4128277" showgrid="true" inkscape:pageopacity="0.0">
+    <inkscape:grid enabled="true" visible="true" empspacing="5" type="xygrid" id="grid2383" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Capa 1" id="layer1" inkscape:groupmode="layer" style="display:none" transform="translate(0,-106)"/>
+  <g id="layer2" inkscape:groupmode="layer" style="opacity:1" transform="translate(0,-106)">
+    <path class="ColorScheme-Text" id="path4157" d="M 11 1 A 10 10 0 0 0 1.4726562 8 L 4.7519531 8 A 6.9393406 6.9393406 0 0 1 11 4.0605469 A 6.9393406 6.9393406 0 0 1 17.859375 10 L 20.949219 10 A 10 10 0 0 0 11 1 z M 17.857422 12 A 6.9393406 6.9393406 0 0 1 11 17.939453 A 6.9393406 6.9393406 0 0 1 4.75 14 L 1.4628906 14 A 10 10 0 0 0 11 21 A 10 10 0 0 0 20.939453 12 L 17.857422 12 z " style="opacity:1;fill:currentColor;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(0,106)"/>
+    <rect x="1" class="ColorScheme-Text" ry="1.5719401e-05" id="rect4149" height="2" width="2" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" y="107"/>
+    <rect x="19" class="ColorScheme-Text" ry="1.5719401e-05" id="rect4151" height="2" width="2" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" y="107"/>
+    <rect x="19" class="ColorScheme-Text" ry="1.5719401e-05" id="rect4153" height="2" width="2" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" y="125"/>
+    <rect x="1" class="ColorScheme-Text" ry="1.5719401e-05" id="rect4155" height="2" width="2" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" y="125"/>
+    <path class="ColorScheme-Text" id="rect4163" d="M 1 8 L 1 14 L 6 14 L 6 12 L 21 12 L 21 10 L 6 10 L 6 8 L 1 8 z " style="opacity:1;fill:currentColor;fill-opacity:0.50214595;stroke:currentColor;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(0,106)"/>
+  </g>
+</svg>

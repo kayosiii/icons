@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="unigine.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2816" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <defs id="defs2818">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824-8" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" id="perspective2824-5" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview inkscape:window-x="30" inkscape:current-layer="g4146" inkscape:window-y="0" inkscape:window-height="1080" bordercolor="#666666" inkscape:grid-bbox="true" inkscape:window-width="1890" inkscape:snap-grids="true" borderopacity="1.0" inkscape:snap-global="true" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="20.386363" inkscape:cx="18.005156" inkscape:document-units="px" inkscape:cy="9.7944284" showgrid="true" inkscape:pageopacity="0.0">
+    <inkscape:grid enabled="true" visible="true" empspacing="4" type="xygrid" id="grid2826" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata2821">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,-42)">
+    <g id="g4146" transform="translate(0.90625,-1.1229615)">
+      <circle cy="47.672016" class="ColorScheme-Text" r="3.5" id="path4141" cx="3.6428022" style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"/>
+      <circle cy="47.672016" class="ColorScheme-Text" r="3.5" id="circle4143" cx="14.642802" style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"/>
+      <circle cy="57.672016" class="ColorScheme-Text" r="3.5" id="circle4145" cx="14.642802" style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"/>
+      <circle cy="57.672016" class="ColorScheme-Text" r="3.5" id="circle4147" cx="3.6428022" style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"/>
+    </g>
+  </g>
+</svg>

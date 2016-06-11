@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="kazaam.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 22 22" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" width="22">
+  <defs id="defs4">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+  </defs>
+  <sodipodi:namedview inkscape:object-paths="true" inkscape:snap-object-midpoints="true" inkscape:window-x="38" inkscape:current-layer="layer1" inkscape:window-y="0" inkscape:snap-page="true" inkscape:window-height="1080" bordercolor="#666666" inkscape:window-width="1882" borderopacity="1.0" inkscape:snap-global="true" units="px" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="1" inkscape:cx="-139.75516" inkscape:document-units="px" inkscape:cy="-0.10497593" inkscape:object-nodes="true" showgrid="true" inkscape:pageopacity="0.0">
+    <inkscape:grid type="xygrid" id="grid4149"/>
+  </sodipodi:namedview>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,-1030.3622)">
+    <rect x="2" class="ColorScheme-Text" ry="1.7382812e-05" id="rect4189" height="17.999983" width="8" style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" y="1032.3622"/>
+    <path sodipodi:nodetypes="ccccccccccccccccccc" class="ColorScheme-Text" id="rect4148" d="m 1,1 0,9 0,5 20,0 0,-14 -9,0 z m 11,1 8,0 0,12 -18,0 0,-4 10,0 z M 2,3 11,3 11,9 2,9 Z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(0,1030.3622)"/>
+    <path class="ColorScheme-Text" id="rect4162" d="M 1 17 L 1 21 L 21 21 L 21 20 L 18 20 L 18 18 L 21 18 L 21 17 L 1 17 z M 2 18 L 5 18 L 5 20 L 2 20 L 2 18 z M 6 18 L 9 18 L 9 20 L 6 20 L 6 18 z M 10 18 L 13 18 L 13 20 L 10 20 L 10 18 z M 14 18 L 17 18 L 17 20 L 14 20 L 14 18 z " style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(0,1030.3622)"/>
+  </g>
+</svg>

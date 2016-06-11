@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="applications-wine.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <metadata id="metadata10">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:window-x="38" inkscape:current-layer="layer1" inkscape:window-y="0" inkscape:window-height="1080" gridtolerance="10.0" guidetolerance="10.0" bordercolor="#666666" inkscape:window-width="1882" borderopacity="1.0" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="21.831922" inkscape:cx="0.65193736" inkscape:cy="10.229803" showgrid="true" inkscape:pageopacity="0.0" objecttolerance="10.0">
+    <inkscape:grid type="xygrid" id="grid4160"/>
+  </sodipodi:namedview>
+  <defs id="defs4">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+
+.ColorScheme-{ color:#eff0f1; }
+
+.ColorScheme-NegativeText{ color:#da4453; }
+
+.ColorScheme-PositiveText{ color:#27ae60; }
+
+.ColorScheme-NeutralText{ color:#f67400; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="128 : 64 : 1" inkscape:persp3d-origin="64 : 42.666667 : 1" inkscape:vp_x="0 : 64 : 1" id="perspective12" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <g id="layer1" inkscape:groupmode="layer" transform="translate(0,-106)"/>
+  <g id="layer2" inkscape:groupmode="layer" style="opacity:1" transform="translate(0,-106)"/>
+  <g id="layer3" inkscape:groupmode="layer" style="opacity:1" transform="translate(0,-106)"/>
+  <g id="layer4" inkscape:groupmode="layer" style="opacity:1" transform="translate(0,-106)">
+    <g class="ColorScheme-Text" id="g4154" style="fill:currentColor" transform="matrix(0.15625538,0,0,0.15625538,1.0106288,106.94848)">
+      <path class="ColorScheme-Text" id="rect3891" d="M 40.1361,1.1839707 C 33.547975,1.2016876 26.725607,2.6987889 19.631802,5.8293371 L 10.833986,53.521764 C 29.56722,45.837375 46.179232,48.438336 61.071311,59.474709 L 69.905036,11.610236 C 62.485045,6.2506706 54.736735,2.8189412 46.635711,1.631302 44.492945,1.3171625 42.332141,1.178065 40.1361,1.1839707 Z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+      <path class="ColorScheme-Text" id="path3926" d="m 29.305913,57.545534 c -6.57143,0.04355 -13.42289,1.577662 -20.5761178,4.783006 l -8.79781601,47.72683 C 18.403013,102.67168 35.098943,105.10114 50.205213,116.00833 l 8.76191,-47.76125 c -7.34551,-5.516585 -15.05585,-9.064296 -23.19751,-10.254215 -2.13051,-0.311381 -4.27323,-0.461847 -6.4637,-0.447331 z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+      <path class="ColorScheme-Text" id="path3924" d="m 77.65433,13.377273 -8.761906,47.761246 c 15.145709,11.771499 31.854986,13.980224 50.273236,5.815311 l 8.76191,-47.726838 C 109.3906,26.943745 92.532419,25.535221 77.65433,13.377273 Z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+      <path class="ColorScheme-Text" id="path3928" d="m 67.823808,69.870218 -8.72599,47.485962 c 14.62162,11.34896 31.46626,12.94068 50.273232,5.8153 l 8.7619,-47.692412 c -18.978702,7.998013 -35.771402,6.273025 -50.309142,-5.60885 z" inkscape:connector-curvature="0" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+    </g>
+  </g>
+</svg>

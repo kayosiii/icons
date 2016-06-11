@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="meshlab.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2816" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <defs id="defs2818">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824-8" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" id="perspective2824-5" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview inkscape:window-x="38" inkscape:current-layer="layer1" inkscape:window-y="0" inkscape:window-height="1080" bordercolor="#666666" inkscape:grid-bbox="true" inkscape:window-width="1882" borderopacity="1.0" inkscape:snap-global="false" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="30.935922" inkscape:cx="9.7601152" inkscape:document-units="px" inkscape:cy="9.7161708" showgrid="true" inkscape:pageopacity="0.0">
+    <inkscape:grid enabled="true" visible="true" empspacing="4" type="xygrid" id="grid2826" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata2821">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,-42)">
+    <g id="g4148" transform="matrix(0.31387935,0,0,0.31387935,0.95095644,42.901913)">
+      <path class="ColorScheme-Text" id="path3837" d="m 33.15625,4.65625 c -5.053104,0 -9.557356,3.8073728 -12.5625,9.8125 3.59418,-0.815491 7.46278,-1.28125 11.53125,-1.28125 4.958851,0 9.663356,0.688889 13.875,1.875 C 42.999097,8.7188914 38.372442,4.65625 33.15625,4.65625 Z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+      <path class="ColorScheme-Text" id="path3833" d="M 15.25,19.625 C 8.7696795,22.621857 4.59375,27.281182 4.59375,32.5625 c 0,5.349524 4.2818355,10.102589 10.90625,13.09375 -1.119515,-4.112999 -1.75,-8.659772 -1.75,-13.46875 0,-4.453399 0.531746,-8.692239 1.5,-12.5625 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+      <path class="ColorScheme-Text" id="path3831" d="m 51.3125,20.8125 c 0.791587,3.54769 1.25,7.369573 1.25,11.375 0,4.347038 -0.512613,8.485918 -1.4375,12.28125 5.262857,-2.984629 8.53125,-7.221302 8.53125,-11.90625 0,-4.628039 -3.192756,-8.772158 -8.34375,-11.75 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+      <path class="ColorScheme-Text" id="path3038" d="m 45.53125,50.21875 c -4.090174,1.104548 -8.631482,1.75 -13.40625,1.75 -3.88262,0 -7.575126,-0.441564 -11.03125,-1.1875 2.994992,5.480134 7.268145,8.9375 12.0625,8.9375 4.959591,0 9.371165,-3.68636 12.375,-9.5 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+      <circle cy="26.244539" class="ColorScheme-Text" r="8.9216671" id="path3843" cx="24.56691" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(7.8872711,5.4305801)"/>
+      <ellipse cy="26.244539" class="ColorScheme-Text" r="8.9216671" id="path3845" cx="24.56691" style="fill:#c8c8c8;fill-opacity:1;stroke:none" transform="matrix(1.6521739,0,0,1.5362319,-8.1346269,-8.6425789)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="applications-engineering.svg" xmlns:cc="http://creativecommons.org/ns#" id="svg5453" version="1.1" width="22" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="0.91 r13725" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 22 22" height="22" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <defs id="defs5455">
+    <style id="current-color-scheme" type="text/css"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+  </defs>
+  <sodipodi:namedview borderlayer="true" inkscape:snap-nodes="true" inkscape:window-maximized="1" inkscape:window-y="0" fit-margin-top="0" inkscape:cx="14.860789" inkscape:object-nodes="true" id="base" inkscape:pageopacity="0" inkscape:pageshadow="2" showguides="true" fit-margin-left="0" inkscape:document-units="px" inkscape:window-width="1882" inkscape:snap-bbox="true" fit-margin-bottom="0" inkscape:showpageshadow="false" inkscape:window-x="38" borderopacity="1.0" inkscape:zoom="16.000001" pagecolor="#ffffff" bordercolor="#666666" showgrid="true" inkscape:current-layer="layer1" inkscape:bbox-nodes="true" fit-margin-right="0" inkscape:window-height="1080" inkscape:cy="9.2715254">
+    <inkscape:grid id="grid4063" type="xygrid"/>
+    <sodipodi:guide orientation="32,0" id="guide4625" position="4.2167969e-05,32.000026"/>
+    <sodipodi:guide orientation="0,31.999969" id="guide4627" position="4.2167969e-05,2.6367188e-05"/>
+    <sodipodi:guide orientation="-32,0" id="guide4629" position="32.000012,2.6367188e-05"/>
+    <sodipodi:guide orientation="0,-31.999969" id="guide4631" position="32.000012,32.000026"/>
+    <sodipodi:guide orientation="28,0" id="guide4633" position="2.0000422,30.000026"/>
+    <sodipodi:guide orientation="0,27.999969" id="guide4635" position="2.0000422,2.0000264"/>
+    <sodipodi:guide orientation="-28,0" id="guide4637" position="30,17"/>
+    <sodipodi:guide orientation="0,-27.999969" id="guide4639" position="30.000012,30.000026"/>
+    <sodipodi:guide orientation="18,0" id="guide4504" position="7.0000422,25.000026"/>
+    <sodipodi:guide orientation="0,17.999969" id="guide4506" position="7.0000422,7.0000264"/>
+    <sodipodi:guide orientation="-18,0" id="guide4508" position="25.000012,7.0000264"/>
+    <sodipodi:guide orientation="0,-17.999969" id="guide4510" position="25.000012,25.000026"/>
+    <sodipodi:guide orientation="19.999939,0" id="guide4522" position="12.000012,25.999965"/>
+    <sodipodi:guide orientation="0,8" id="guide4524" position="12.000012,6.0000264"/>
+    <sodipodi:guide orientation="-19.999939,0" id="guide4526" position="20.000012,6.0000264"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5458">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-384.57143,-525.798)">
+    <path d="m 394.57143,527.798 0,2.17383 a 3,3 0 0 0 -2,2.82617 3,3 0 0 0 1.52539,2.60937 l -1.44336,5.39063 -1.08203,0 0,1 0.81445,0 -0.80859,3.01562 0.57227,1.71875 1.26953,-4.73437 4.30273,0 1.26758,4.73437 0.57226,-1.71875 -0.80859,-3.01562 0.81836,0 0,-1 -1.08594,0 -1.44336,-5.38867 a 3,3 0 0 0 1.5293,-2.61133 3,3 0 0 0 -2,-2.82422 l 0,-2.17578 -2,0 z m 1,4 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z m -0.53125,3.94922 a 3,3 0 0 0 0.53125,0.0508 3,3 0 0 0 0.5293,-0.0469 l 1.35156,5.04688 -3.76563,0 1.35352,-5.05078 z" class="ColorScheme-Text" id="rect4530" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" inkscape:connector-curvature="0"/>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" inkscape:export-ydpi="90" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:export-xdpi="90" sodipodi:docname="applications-other.svg" xmlns:cc="http://creativecommons.org/ns#" id="svg5453" version="1.1" inkscape:export-filename="/home/uri/Iconos de KDE/Novo/apps/preferences/preferences-system-network-sharing.png" width="22" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="0.91 r13725" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="22" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <defs id="defs5455">
+    <style id="current-color-scheme" type="text/css"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+  </defs>
+  <sodipodi:namedview borderlayer="true" inkscape:window-maximized="1" inkscape:window-y="0" fit-margin-top="0" inkscape:cx="5.7422775" id="base" inkscape:pageopacity="0" inkscape:pageshadow="2" showguides="true" fit-margin-left="0" inkscape:document-units="px" inkscape:window-width="1882" fit-margin-bottom="0" inkscape:showpageshadow="false" inkscape:window-x="38" borderopacity="1.0" inkscape:zoom="15.999999" bordercolor="#666666" pagecolor="#ffffff" showgrid="true" inkscape:current-layer="layer1" fit-margin-right="0" inkscape:window-height="1080" inkscape:cy="12.913408">
+    <inkscape:grid id="grid4063" type="xygrid"/>
+    <sodipodi:guide orientation="0,32" id="guide4159" position="1.1650391e-05,2.6367188e-05"/>
+    <sodipodi:guide orientation="-32,0" id="guide4161" position="32,24"/>
+    <sodipodi:guide orientation="0,-32" id="guide4163" position="32.000012,32.000026"/>
+    <sodipodi:guide orientation="0,28" id="guide4169" position="2.0000117,2.0000264"/>
+    <sodipodi:guide orientation="0,-28" id="guide4173" position="30.000012,30.000026"/>
+    <sodipodi:guide orientation="28,0" id="guide4181" position="2.0000117,30.000026"/>
+    <sodipodi:guide orientation="0,14" id="guide4183" position="2.0000117,2.0000264"/>
+    <sodipodi:guide orientation="0,-14" id="guide4187" position="16.000012,30.000026"/>
+    <sodipodi:guide orientation="14,0" id="guide4193" position="9.0000117,23.000026"/>
+    <sodipodi:guide orientation="0,14.000031" id="guide4195" position="9.0000117,9.0000264"/>
+    <sodipodi:guide orientation="-14,0" id="guide4197" position="23.000042,9.0000264"/>
+    <sodipodi:guide orientation="0,-14.000031" id="guide4199" position="23.000042,23.000026"/>
+    <sodipodi:guide orientation="4,0" id="guide4534" position="9.0000117,18.000026"/>
+    <sodipodi:guide orientation="0,4" id="guide4536" position="9.0000117,14.000026"/>
+    <sodipodi:guide orientation="-4,0" id="guide4538" position="13.000012,14.000026"/>
+    <sodipodi:guide orientation="4,0" id="guide4546" position="18.000012,23.000026"/>
+    <sodipodi:guide orientation="0,4.0000305" id="guide4548" position="18.000012,19.000026"/>
+    <sodipodi:guide orientation="-4,0" id="guide4550" position="22.000042,19.000026"/>
+    <sodipodi:guide orientation="0,-4.0000305" id="guide4552" position="22.000042,23.000026"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5458">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-384.57143,-525.798)">
+    <path d="M 11 1 C 5.46 1 1 5.4600021 1 11 C 1 16.539998 5.46 21 11 21 C 16.54 21 21 16.539998 21 11 C 21 5.4600021 16.54 1 11 1 z M 7.4277344 9.5722656 C 8.2191644 9.5722656 8.8574219 10.20857 8.8574219 11 C 8.8574219 11.79143 8.2191644 12.427734 7.4277344 12.427734 C 6.6363044 12.427734 6 11.79143 6 11 C 6 10.20857 6.6363044 9.5722656 7.4277344 9.5722656 z M 11 9.5722656 C 11.79143 9.5722656 12.427734 10.20857 12.427734 11 C 12.427734 11.79143 11.79143 12.427734 11 12.427734 C 10.20857 12.427734 9.5722656 11.79143 9.5722656 11 C 9.5722656 10.20857 10.20857 9.5722656 11 9.5722656 z M 14.572266 9.5722656 C 15.363696 9.5722656 16 10.20857 16 11 C 16 11.79143 15.363696 12.427734 14.572266 12.427734 C 13.780836 12.427734 13.142578 11.79143 13.142578 11 C 13.142578 10.20857 13.780836 9.5722656 14.572266 9.5722656 z " class="ColorScheme-Text" id="rect4175" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" transform="translate(384.57143,525.798)"/>
+  </g>
+</svg>

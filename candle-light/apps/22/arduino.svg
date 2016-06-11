@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="arduino.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2816" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <defs id="defs2818">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824-8" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" id="perspective2824-5" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview inkscape:object-paths="true" inkscape:snap-smooth-nodes="true" inkscape:window-x="38" inkscape:current-layer="layer1" inkscape:window-y="0" inkscape:snap-intersection-paths="true" inkscape:window-height="1080" bordercolor="#666666" inkscape:grid-bbox="true" inkscape:window-width="1882" inkscape:snap-midpoints="true" borderopacity="1.0" inkscape:snap-global="true" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="1" inkscape:cx="-118.90574" inkscape:document-units="px" inkscape:cy="-0.36987468" inkscape:object-nodes="true" showgrid="true" inkscape:pageopacity="0.0">
+    <inkscape:grid enabled="true" visible="true" empspacing="4" type="xygrid" id="grid2826" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata2821">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,-42)">
+    <path sodipodi:nodetypes="ssscssscsscsssssscscccccccccccccccccc" class="ColorScheme-Text" id="path2996" d="m 16.217266,47.587839 c 2.786909,0 4.81789,2.32651 4.81789,5.515653 0,3.246605 -1.89325,5.582107 -4.507772,5.582107 -2.039903,0 -3.564029,-1.156337 -5.460275,-4.0869 -2.3846746,2.959295 -3.6415576,3.854312 -5.5378046,3.854312 -2.5857914,0 -4.5742263,-2.272888 -4.5742263,-5.260914 0,-2.901832 1.9815272,-5.19446 4.4523947,-5.19446 1.7238608,0 3.2529274,1.228714 4.7182092,3.843236 2.499598,-3.160412 4.051683,-4.253034 6.091584,-4.253034 z m 0.941428,2.071138 c -1.608937,0 -2.470165,0.637094 -5.515654,4.142278 1.522744,1.896247 2.812643,2.669222 4.507773,2.669222 2.355943,0 3.798934,-1.354058 3.798934,-3.566346 0,-1.867516 -1.182117,-3.245154 -2.791053,-3.245154 z M 5.4406995,49.946944 c -1.9824399,0 -3.4555897,1.382132 -3.4555897,3.27838 0,1.723861 1.2683095,3.156548 2.7910532,3.156548 1.4652818,0 2.7866515,-1.058411 4.7403605,-3.787858 -1.3790888,-1.953709 -2.4381561,-2.64707 -4.075824,-2.64707 z M 16,51 l 2,0 0,1 1,0 0,2 -1,0 0,1 -2,0 0,-1 -1,0 0,-2 1,0 z m -13,1 4,0 0,2 -4,0 z" inkscape:connector-curvature="0" style="color:#c8c8c8;fill:currentColor;fill-opacity:1;stroke:none"/>
+  </g>
+</svg>

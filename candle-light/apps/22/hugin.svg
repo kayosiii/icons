@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" height="22" inkscape:export-filename="/home/rob/.kde4/share/icons/nmfnms/48x48/apps/utilities-terminal.png" width="22" version="1.1" inkscape:version="0.91 r13725" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:docname="hugin.svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" sodipodi:version="0.32" inkscape:export-ydpi="67.5" id="svg2816" inkscape:export-xdpi="67.5" xmlns:cc="http://creativecommons.org/ns#" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs id="defs2818">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="64 : 32 : 1" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" id="perspective2824" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview inkscape:window-x="30" inkscape:current-layer="layer1" inkscape:window-y="0" inkscape:window-height="1080" bordercolor="#666666" inkscape:grid-bbox="true" inkscape:window-width="1890" borderopacity="1.0" inkscape:window-maximized="1" inkscape:pageshadow="2" id="base" pagecolor="#ffffff" inkscape:zoom="17.279922" inkscape:cx="13.151637" inkscape:document-units="px" inkscape:cy="3.4895482" showgrid="true" inkscape:pageopacity="0.0">
+    <inkscape:grid enabled="true" visible="true" empspacing="4" type="xygrid" id="grid2826" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata2821">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" id="layer1" inkscape:groupmode="layer" style="opacity:1" transform="translate(0,-42)">
+    <path class="ColorScheme-Text" id="rect4137" d="M 1.6035156 6.0332031 C 1.2694154 6.0332031 1 6.3026183 1 6.6367188 L 1 17.492188 C 1 17.826288 1.2694154 18.09375 1.6035156 18.09375 L 20.396484 18.09375 C 20.730585 18.09375 21 17.826288 21 17.492188 L 21 6.6367188 C 21 6.3026185 20.730585 6.0332031 20.396484 6.0332031 L 1.6035156 6.0332031 z M 12.158203 7.0097656 A 2.1898112 2.1898112 0 0 1 14.347656 9.1992188 A 2.1898112 2.1898112 0 0 1 12.158203 11.388672 A 2.1898112 2.1898112 0 0 1 9.9667969 9.1992188 A 2.1898112 2.1898112 0 0 1 12.158203 7.0097656 z M 8.0820312 9 C 8.0820312 9 8.0820312 11 9.0820312 12 C 10.082028 13 11.082031 14 12.082031 14 C 13.082031 14 14.082031 16 15.082031 16 C 16.082031 16 18.082031 17 19.082031 17 L 2.0820312 17 L 2.0820312 16 C 2.0820312 16 5.0820312 15 6.0820312 13 L 8.0820312 9 z M 15.449219 11.572266 C 17.449219 11.572266 17.28125 12.123047 17.28125 13.123047 C 17.28125 13.123047 18.56182 14.251182 18.550781 14.716797 C 18.537407 15.280879 19 16 19 16 C 19 16 16 16 15 15 C 14 14 12 13 12 13 C 12 13 12.784873 12.453914 13.863281 11.880859 C 14.253484 11.67351 14.917829 11.572266 15.449219 11.572266 z " style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(0,42)"/>
+  </g>
+</svg>

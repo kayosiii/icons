@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="mypaint.svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" id="svg2" xmlns:svg="http://www.w3.org/2000/svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="22" sodipodi:version="0.32" width="22">
+  <defs id="defs4">
+    <style type="text/css" id="current-color-scheme"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" id="perspective10" inkscape:vp_y="0 : 1000 : 0"/>
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" id="perspective2525" inkscape:vp_y="0 : 1000 : 0"/>
+  </defs>
+  <sodipodi:namedview inkscape:current-layer="g4140" inkscape:window-width="1890" inkscape:window-height="1080" inkscape:pageopacity="0.0" inkscape:cy="13.933986" inkscape:document-units="px" inkscape:window-y="0" inkscape:pageshadow="2" id="base" borderopacity="1.0" inkscape:zoom="16" pagecolor="#ffffff" inkscape:window-x="30" bordercolor="#666666" inkscape:cx="-5.8123386" inkscape:window-maximized="1" showgrid="true">
+    <inkscape:grid enabled="true" visible="true" empspacing="2" type="xygrid" id="grid2816" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,-1030.3622)">
+    <g id="g4140" transform="matrix(0.18147639,0,0,0.18147639,-0.16768928,862.27155)">
+      <path sodipodi:nodetypes="scssssss" class="ColorScheme-Text" id="path3005" d="m 30.073715,1026.6277 c -18.12897,4.3089 -23.0644944,14.4695 -23.0644944,14.4695 0,0 -4.2938906,-10.115 15.8545104,-26.6297 9.229254,-7.5649 -10.36927,-26.88087 7.923973,-46.84712 8.467186,-9.24156 21.084874,-8.78014 30.801514,-2.39721 l 33.316486,21.88584 c 18.192956,11.95108 -5.815937,32.80689 -22.156372,37.12199 -12.532266,3.3095 -28.814141,-0.8979 -42.675617,2.3967 z" inkscape:connector-curvature="0" style="fill:currentColor;fill-rule:evenodd;stroke:currentColor;stroke-width:0.92701173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path sodipodi:nodetypes="ccccc" class="ColorScheme-Text" id="path3008" d="M 63.033192,32.62241 100,56 104,48 66.516596,25.311205 Z" inkscape:connector-curvature="0" style="fill:currentColor;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(0,924.36218)"/>
+      <path sodipodi:nodetypes="ccccc" class="ColorScheme-Text" id="path3010" d="M 70.927378,17.933616 C 74.020107,7.0883246 72.558691,7.3879501 72.688795,7.2717755 L 116,24 110.06638,37.456449 Z" inkscape:connector-curvature="0" style="fill:currentColor;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(0,924.36218)"/>
+    </g>
+  </g>
+</svg>
