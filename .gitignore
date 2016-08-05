@@ -1,2 +1,3 @@
-/build/.directory
 /build/*
+/verse-artifact/*
+/cmake/GtkUpdateIconCache.cmake
