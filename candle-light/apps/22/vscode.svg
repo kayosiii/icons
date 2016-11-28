@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg width="22" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" inkscape:version="0.91 r13725" xmlns:cc="http://creativecommons.org/ns#" sodipodi:docname="vs_code.svg" id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" height="22" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+  <sodipodi:namedview inkscape:window-maximized="1" bordercolor="#666666" inkscape:cy="11.351704" borderopacity="1" objecttolerance="10" pagecolor="#ffffff" guidetolerance="10" inkscape:cx="18.543945" inkscape:current-layer="svg2" id="namedview11" gridtolerance="10" inkscape:window-height="1080" showgrid="true" inkscape:window-width="1890" inkscape:pageopacity="0" inkscape:window-x="30" inkscape:zoom="20.85965" inkscape:window-y="0" inkscape:pageshadow="2">
+    <inkscape:grid id="grid4145" type="xygrid"/>
+  </sodipodi:namedview>
+  <defs id="defs4">
+    <style id="current-color-scheme" type="text/css"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+  </defs>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 12.016583,17.063267 -3.9721099,-3.97211 -1.77302,1.38176 c -0.97517,0.75996 -2.11488,1.64815 -2.5327,1.97375 l -0.75968,0.59201 -0.998,-0.49859 -0.99800001,-0.49859 0,-5.006 0,-5.005999 0.99099001,-0.49534 c 0.56104,-0.28044 1.00279,-0.48828 1.0182,-0.47907 0.0217,0.013 4.61485,3.62645 4.93721,3.88416 l 0.0864,0.069 3.9878999,-3.98785 3.9879,-3.9878497 2.49573,0.9949397 2.49572,0.99493 -0.006,7.998129 -0.006,7.99812 -2.47842,1.00834 c -1.36314,0.55459 -2.4843,1.00834 -2.49147,1.00834 -0.007,0 -1.8005,-1.78745 -3.98516,-3.97211 z m 3.98351,-6.02786 c 0,-2.233779 -0.008,-4.060799 -0.0171,-4.060039 -0.0277,0.002 -5.22312,4.035109 -5.23044,4.060039 -0.006,0.0218 5.19546,4.06092 5.23044,4.06126 0.009,9e-5 0.0171,-1.82748 0.0171,-4.06126 z m -11.5005799,1.53543 1.48903,-1.53543 -1.49585,-1.496009 c -0.82271,-0.82281 -1.50355,-1.49602 -1.51297,-1.49602 -0.009,0 -0.0171,1.36775 -0.0171,3.039429 0,2.11744 0.007,3.03701 0.024,3.03145 0.0132,-0.004 0.69401,-0.69893 1.51297,-1.54342 z" inkscape:connector-curvature="0" id="path4158" style="fill:currentColor" class="ColorScheme-Text"/>
+</svg>
