@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" sodipodi:docname="substance_designer.svg" inkscape:version="0.91 r13725" width="22" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="22" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 22 22">
+  <defs id="defs4">
+    <style id="current-color-scheme" type="text/css"><![CDATA[
+.ColorScheme-Text{ color:#c8c8c8; }
+]]></style>
+  </defs>
+  <sodipodi:namedview inkscape:cx="14.853546" inkscape:window-height="1080" inkscape:window-y="0" inkscape:cy="6.1627803" id="base" units="px" showgrid="false" inkscape:document-units="px" borderopacity="1.0" pagecolor="#ffffff" inkscape:zoom="22.4" inkscape:pageshadow="2" inkscape:window-x="30" inkscape:window-width="1890" inkscape:window-maximized="1" inkscape:pageopacity="0.0" bordercolor="#666666" inkscape:current-layer="layer1"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" transform="translate(0,-1030.3622)">
+    <g id="g4839" transform="matrix(0.13734644,0,0,0.13736845,-2.2694375,901.72061)">
+      <path id="path3346" inkscape:connector-curvature="0" class="ColorScheme-Text" sodipodi:nodetypes="ccscc" d="m 95.714287,1095.755 -31.07143,-34.2857 c 0,0 13.20878,-18.4035 35.35714,-25.3571 30.714293,-9.6429 50.535723,1.9642 50.535723,1.9642 z" style="fill:currentColor;fill-opacity:0.50292394;fill-rule:evenodd;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50292394"/>
+      <path id="path3348" inkscape:connector-curvature="0" class="ColorScheme-Text" d="m 65.536557,995.57674 -8.037111,14.10736 33.291011,30.1661 c 2.86745,-1.4304 5.93777,-2.7113 9.20899,-3.7383 26.149383,-8.2097 44.352853,-1.0344 49.201173,1.2851 l 0.4414,-0.3925 -84.105463,-41.42776 z" style="fill:currentColor;fill-rule:evenodd;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path id="path3353" inkscape:connector-curvature="0" class="ColorScheme-Text" d="m 45.892016,1030.9341 -3.39257,6.4278 26.429681,28.9297 0.041,-0.047 -4.32813,-4.7754 c 0,0 4.6612,-6.4508 13.03321,-13.1562 l -31.783211,-17.379 z" style="fill:currentColor;fill-rule:evenodd;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path id="path4022" inkscape:connector-curvature="0" class="ColorScheme-Text" sodipodi:nodetypes="cccc" d="m 51.964286,1019.3267 c -0.98488,1.0885 -6.07227,11.6074 -6.07227,11.6074 l 8.31446,4.5469 z" style="fill:currentColor;fill-opacity:0.50292394;fill-rule:evenodd;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50292394"/>
+      <path id="path4032" inkscape:connector-curvature="0" class="ColorScheme-Text" d="m 97.054127,936.82676 0.24219,38.32618 14.294923,-8.8516 -14.537113,-29.47458 z" style="fill:currentColor;fill-rule:evenodd;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <path id="path4034" inkscape:connector-curvature="0" class="ColorScheme-Text" d="m 111.60687,966.29164 -46.427743,28.75 0.30274,0.6328 0.0547,-0.098 24.23828,11.93946 26.117183,-33.01166 -4.28515,-8.2129 z" style="fill:currentColor;fill-opacity:0.50292394;fill-rule:evenodd;stroke:currentColor;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50292394"/>
+    </g>
+  </g>
+</svg>
